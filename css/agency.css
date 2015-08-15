@@ -174,10 +174,11 @@ fieldset[disabled] .btn-xl.active {
 .navbar-projects {
     border-color: transparent;
     background-color: #222;
+    opacity: 0.9;
 }
 
 .navbar-projects .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #fed136;
 }
 
@@ -241,7 +242,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #fed136;
 }
 
@@ -327,7 +328,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-projects {
-        padding: 5px 0;
+        padding: 2px 0;
         border: 0;
         background-color: #222;
         -webkit-transition: padding .3s;
