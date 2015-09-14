@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /1_amazon.html
-Disallow: /3_fractal.html
